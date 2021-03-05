@@ -1,4 +1,4 @@
-# Reproducible Analytical Pipeline
+# Reproducible Analytical Pipeline Package
 
 #### NOTE: Only published data have been used in this package.
 
