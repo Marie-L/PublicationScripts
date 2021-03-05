@@ -32,3 +32,10 @@ This work demonstrates the following objectives:
 - [x] An inquisitive approach: the curiosity to explore new questions, opportunities, data, and techniques; tenacity to improve methods and maximise insights; and relentless creativity in their approach to solutions.
 - [x] Consideration of problems in the context of organisation goals
 - [x] A commitment to keeping up to date with current thinking and maintaining personal development. Including collaborating with the data science community
+
+#### Programme Learning Outcomes
+- [x] Explain and apply basic techniques in Analysis, Algebra and Statistics to solve seen and unseen problems, and to present, evaluate and interpret qualitative and quantitative data in class or in the workplace
+- [x] Use appropriate resources and tools to identify and select appropriate sources of information in order to create logically structured introductory content e.g. for essays, bibliographies, reports, posters and presentations
+- [x] Individually and collaboratively programme in appropriate languages to solve problems in class or in the workplace, and select an appropriate set of software and collaborative editing tools to explain and visualise the analysis.
+- [x] Identify and reflect upon the key Knowledge, Skills and Behaviours (KSBs) that you have developed in relation to the degree apprenticeship standard.
+- [x] Monitor and build an evidence-base of the KSBs appropriate to the stage of your apprenticeship completion.
